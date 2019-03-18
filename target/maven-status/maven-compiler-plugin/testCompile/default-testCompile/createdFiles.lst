@@ -1,0 +1,8 @@
+net\serenitybdd\examples\ui\CategoryNavigationBar.class
+net\serenitybdd\examples\steps\NavigationUser.class
+net\serenitybdd\examples\model\Subcategory.class
+net\serenitybdd\examples\ui\CurrentPage.class
+net\serenitybdd\examples\features\navigation\WhenBrowsingProductCategories.class
+net\serenitybdd\examples\model\Category.class
+net\serenitybdd\examples\ui\RozetkaHomePage.class
+net\serenitybdd\examples\ui\SmartphonesPage.class
