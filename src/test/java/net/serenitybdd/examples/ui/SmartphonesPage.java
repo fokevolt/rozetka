@@ -3,8 +3,6 @@ package net.serenitybdd.examples.ui;
 import net.serenitybdd.core.pages.PageObject;
 import net.thucydides.core.annotations.DefaultUrl;
 
-import java.util.Objects;
-
 /**
  * @author Vitalii Bondariev
  */

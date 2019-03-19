@@ -8,8 +8,6 @@ import net.serenitybdd.examples.ui.RozetkaHomePage;
 import net.serenitybdd.examples.ui.SmartphonesPage;
 import net.thucydides.core.annotations.Step;
 
-import javax.sound.sampled.Clip;
-
 import static org.assertj.core.api.Java6Assertions.assertThat;
 
 /**
